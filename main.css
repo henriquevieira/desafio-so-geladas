@@ -1,0 +1,33 @@
+
+body {
+    background: #CCCCCC;
+    margin: 20px;
+}
+
+#banner {
+    width: 100%;
+    height: 400px;
+}
+
+nav {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#introducao {
+    text-align: center;
+    font-size: 18px;
+}
+
+#propaganda {
+    background: #FFFFFF;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+}
