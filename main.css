@@ -1,6 +1,6 @@
 
 body {
-    background: #CCCCCC;
+    background: #FCFCFC;
     margin: 20px;
 }
 
@@ -13,7 +13,8 @@ nav {
     text-align: center;
 }
 
-h1 {
+#titulo {
+    margin-top: 15px;
     text-align: center;
 }
 
@@ -30,4 +31,9 @@ h1 {
 footer {
     text-align: center;
     font-size: 12px;
+}
+
+.logo {
+    width: 32px;
+    height: 32px;
 }
