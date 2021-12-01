@@ -2,16 +2,59 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <title> Pagina de pagamento</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <link rel="stylesheet" href="main.css">
+        <title> Pagina de Pagamento</title>
     </head>
     <body>
-       <h1> pagina de pagamento</h1>
+       <h1> Pagina de Pagamento</h1>
+
+       <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#"> Menu </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Alterna navegação">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+            <a class="nav-item nav-link" href="main_page.html"> Home </a>
+            <a class="nav-item nav-link" href="sign_up_page.html">Criar Conta</a>
+            <a class="nav-item nav-link" href="sign_in_page.html">Entrar</a>
+            <a class="nav-item nav-link" href="products_page.html">Produtos</a>
+            <a class="nav-item nav-link active" href="#">Pagamento <span class="sr-only">(Página atual)</span></a>
+        </div>
+    </div>
+</nav>
+
+<div class="input-group">
+    <div class="input-group-prepend">
+      <span class="input-group-text">Nome e sobrenome</span>
+    </div>
+    <input type="text" aria-label="First name" class="form-control">
+    <input type="text" aria-label="Last name" class="form-control">
+  </div>
+
+  <div class="input-group mb-3">
+    <div class="input-group-prepend">
+        <span class="input-group-text">Valor Total</span>
+      <div class="input-group-text">
+        <input type="checkbox" aria-label="Chebox para permitir input text">
+      </div>
+    </div>
+    <input type="text" class="form-control" aria-label="Input text com checkbox">
+    <input type="text" class="form-control" aria-label="Input text com checkbox">
+</div>
+
        <ol>
-           <li>valor total</li>
+           
            <li>boleto</li>
            <li>cartão de crédito</li>
            <li>pix</li>
         </ol>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
     </body>
 
 </html>
