@@ -2,10 +2,10 @@
 
 ### Cores
 
-#FFD700
-#FCFCFC
-#8E4162
-#99E1D9
+- #FFD700 - Gold Web Golden
+- #FCFCFC - White
+- #8E4162 - Twilight Lavender
+- #99E1D9 - Middle Blue Green
 
 https://coolors.co/fcfcfc-8e4162-99e1d9-ffd700
 
