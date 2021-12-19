@@ -1,24 +1,27 @@
-# desafio_so_geladas
+# DesafioSoGeladas
 
-### Cores
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
-- #FFD700 - Gold Web Golden
-- #FCFCFC - White
-- #8E4162 - Twilight Lavender
-- #99E1D9 - Middle Blue Green
+## Development server
 
-https://coolors.co/fcfcfc-8e4162-99e1d9-ffd700
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Code scaffolding
 
-icones
-<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+## Build
 
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-imagens
-<a href='https://br.freepik.com/fotos-vetores-gratis/mulher'>Mulher foto criado por wayhomestudio - br.freepik.com</a>
+## Running unit tests
 
-<a href='https://br.freepik.com/fotos-vetores-gratis/alimento'>Alimento foto criado por Racool_studio - br.freepik.com</a>
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-<a href='https://br.freepik.com/fotos-vetores-gratis/tecnologia'>Tecnologia foto criado por benzoix - br.freepik.com</a>
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.

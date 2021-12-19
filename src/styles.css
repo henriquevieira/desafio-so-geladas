@@ -1,0 +1,16 @@
+.text_special_font {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Fuzzy Bubbles', cursive;
+    color: #FCFCFC;
+}
+
+.text_special_font_black {
+    font-family: 'Fuzzy Bubbles', cursive;
+    color: black;
+}
+
+.logo {
+    width: 32px;
+    height: 32px;
+}

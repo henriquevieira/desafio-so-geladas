@@ -1,0 +1,19 @@
+.carousel_image1 {
+    object-fit: cover;
+    object-position: 0 50%;
+    height: 600px;
+}
+
+.carousel_image2 {
+    object-fit: cover;
+    object-position: 0 70%;
+    height: 600px;
+}
+
+.content {
+    background-color: #FFD700;
+}
+
+.text_secondary_content {
+    color: #8E4162;
+}

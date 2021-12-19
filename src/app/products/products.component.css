@@ -1,0 +1,6 @@
+.product_image {
+    object-fit: cover;
+    /* width: 80px; */
+    height: 100px
+    
+}
